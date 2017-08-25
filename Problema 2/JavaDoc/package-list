@@ -1,0 +1,5 @@
+br.uefs.ecomp.sisNema.controller
+br.uefs.ecomp.sisNema.exceptions
+br.uefs.ecomp.sisNema.extras
+br.uefs.ecomp.sisNema.model
+br.uefs.ecomp.sisNema.util
